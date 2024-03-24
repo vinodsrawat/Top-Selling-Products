@@ -20,7 +20,6 @@ This dashboard helps the company to understand their product sales better. It he
 - Step 10 : A line chart was also added to the report design area representing the sales of product per month.
 - Step 11 : Matrix Visual was used to represent sales of product during different marketing campaigns.
 
-
 - Step 12 : Calculated table was created in which there was date, month, year, quarter, etc.
 
 for creating new column following DAX expression was written;
